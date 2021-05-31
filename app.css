@@ -1,0 +1,104 @@
+  
+.a {
+    color: red;
+}
+.b {
+    color: red;
+}
+
+.c {
+    color: green;
+}
+.d {
+    color: blue;
+}
+.e {
+    color: blue;
+}
+.title1 {
+    background-color: wheat;
+    color: red;
+}
+.title2 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+}
+.title3 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    text-transform:uppercase ;
+}
+.title4 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    text-transform:uppercase ;
+    font-size: 30px;
+}
+.title5 {
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    text-transform:uppercase ;
+    font-size: 30px;
+    font-weight: 600;
+}
+.box1 {
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+    border: blue 3px solid;
+    border-radius: 20px;
+}
+.box2 {
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+    padding-left: 40px;
+}
+.box3 {
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.box4 {
+    background: wheat;
+    width:400px;
+    border: 2px solid green;
+    padding: 45px 40px 45px 40px;
+}
+#a >div {  
+    background: wheat;
+    margin: 50px 60px 50px 40px;
+}
+#a {
+    border:1px solid black;
+}
+.m {
+    background-color: red;
+    display: inline-block;
+    
+}
+#n {
+    background: red;
+}
+#p {
+    background:yellow;
+    width: 500px;
+    display: inline-block;
+    
+}
+.q {
+    background-color: red;
+    display: block;
+}
+.r {
+    background-color: blue;
+}
